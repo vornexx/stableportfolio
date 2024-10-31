@@ -10,7 +10,7 @@
 	import Meta from '$lib/components/Meta.svelte';
 </script>
 
-<Meta title="vornexx" description="My portfolio and personal website." />
+<Meta title="vornexx - cloned site" description="My portfolio and personal website." />
 
 <main class="wrapper fade">
 	<h1 class="header">vornexx</h1>
