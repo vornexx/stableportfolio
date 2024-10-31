@@ -1,3 +1,7 @@
-# dan.onl
+# vnx.pages.dev
 
-This is the 5th time I've rewritten my portfolio website. This time, it's a [SvelteKit](https://kit.svelte.dev/) app built with [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com/).
+* Remember variables
+* `NODE_VERSION= 20`
+* `SPOTIFY_CLIENT_ID= **************`
+* `SPOTIFY_CLIENT_SECRET= **************`
+* `SPOTIFY_REFRESH_TOKEN= **************`
